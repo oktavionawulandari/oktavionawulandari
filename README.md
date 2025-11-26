@@ -1,9 +1,7 @@
 <!-- Banner -->
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6A400&width=435&lines=Hi%2C+Im+Oktaviona+Wulandari" alt="Typing SVG" /></a>
-</p>
 
-<p align="center">
   🌟 Full-Stack Developer & Laravel/Vue.js Enthusiast <br>
   💻 Tech Explorer | Problem Solver | Lifelong Learner
 </p>
