@@ -1,49 +1,71 @@
-# Hi there 👋, I'm Oktaviona Wulandari
+# Hi there 👋, I'm **Oktaviona Wulandari**
 
-🌟 **Full-Stack Developer | Laravel & Vue.js Enthusiast | Tech Explorer**
+🌟 **Full-Stack Developer**  
+💻 **Laravel & Vue.js Enthusiast**  
+🚀 **Tech Explorer | Problem Solver**
 
 ---
 
 ## 👩‍💻 About Me
-Graduated of Bali State Polytechnic, D3 Informatics Management with GPA 3.71. Have internship experience as a computer operator at the Balai Diklat Industri Denpasar and IT support trainee at Grandkuta Hotel and Residence, and work experience in Bali SolutionBiz. Skilled in both front-end and back-end technologies such as HTML, CSS, JavaScript, PHP, and Laravel. Able to work independently or in teams, with strong communication skills and a constant eagerness to learn new technologies.
+I am a graduate of Bali State Polytechnic (D3 Informatics Management, GPA 3.71) with experience in web development, IT support, and system maintenance. I specialize in building web-based applications using **Laravel** and **Vue.js**, and I enjoy working on both the front-end and back-end.
+
+I’m passionate about clean code, UI/UX, automation, and continuous learning. I work well independently or in teams, and I love exploring new technologies to improve my skill set.
 
 ---
 
-## 🚀 Skills
-### Programming & Frameworks
-- **Languages:** JavaScript, PHP, Python
-- **FRAMEWORK:** Laravel, Vue.js, Flask
+## 🚀 Tech Stack & Skills
+
+### **Languages & Frameworks**
+- **Languages:** PHP, JavaScript, Python  
+- **Frameworks:** Laravel, Vue.js, Flask  
 - **Database:** MySQL  
-- **Tools:** Git, Composer, npm 
 
-### Other Skills
-- RESTful API Development
-- Version Control with GitHub
-- Front-end Design using HTML, CSS, Tailwind & Bootstrap
+### **Tools & Technologies**
+- Git & GitHub  
+- Composer, npm  
+- RESTful API Development  
+- Tailwind CSS, Bootstrap  
+- Responsive Front-End Development  
 
---- 
+---
 
-## Work Experience
-**Web Developer Fulltime — Bali SolutionBiz**
-March 2024 – Now | Denpasar, Bali
+## 💼 Work Experience
 
-- Collaborated in a development team to build web-based platforms using Laravel and Vue.js, handling end-to-end project phases including requirement development, testing, and deployment based on client specifications.
-- Assisted clients in deploying and maintaining web applications
+### **Web Developer (Full-time) — Bali SolutionBiz**  
+📍 *March 2024 – Present | Denpasar, Bali*
 
-**Computer Operator Intern — Balai Diklat Industri Denpasar**
-August 2022 - February 2023 | Denpasar, Bali
+- Develop and maintain web applications using **Laravel** and **Vue.js**.  
+- Collaborate with teams to deliver end-to-end project solutions.  
+- Assist clients with deployment, updates, and system maintenance.  
 
-- Performed maintenance on servers and local area networks (LAN), ensuring stable system operations.
-- Designed and implemented a web-based system built with Laravel framework to generate and print personalized tenant ID cards using laravel.
-- Handled troubleshooting of physical computer issues, such as replacing damaged parts and cleaning internal components.
-- Conducted routine maintenance on hardware systems, including dust removal, cable inspection, and performance testing.
-- Installed and configured required software applications user needs, ensuring compatibility with the system and optimal performance.
+---
 
-**IT Support Trainee — Grandkuta Hotel & Residence**
-December 2018 - April 2019 | Kuta, Bali
+### **Computer Operator Intern — Balai Diklat Industri Denpasar**  
+📍 *August 2022 – February 2023 | Denpasar, Bali*
 
-- Installed, maintained, and repaired network infrastructure, including guest Wi-Fi, internal LAN, and network equipment such as routers and switches. Ensured stable internet connection throughout the hotel and responded promptly to technical issues to support both staff operations and guest comfort.
-- Responsible for inspecting and maintaining hardware such as computers, printers, in-room smart TVs, and digital signage systems. Assisted guests with technical requests related to Wi-Fi access, smart TV functionality, or the use of business center services, with a strong focus on fast and friendly service.
+- Maintained servers and LAN infrastructure for stable operation.  
+- Built a Laravel-based system for generating and printing tenant ID cards.  
+- Troubleshot and repaired hardware issues (components, PCs, etc.).  
+- Performed routine maintenance and software installations.  
 
-Sroject Collaboration & Documentation
+---
+
+### **IT Support Trainee — Grandkuta Hotel & Residence**  
+📍 *December 2018 – April 2019 | Kuta, Bali*
+
+- Installed and maintained hotel network infrastructure (Wi-Fi, routers, switches).  
+- Handled hardware maintenance such as computers, printers, smart TVs.  
+- Provided technical support for guests and staff with a customer-focused approach.  
+
+---
+
+## 📁 Project Collaboration & Documentation
+I enjoy working on team-based projects, writing clear documentation, and building structured, scalable systems. Always open to collaboration!
+
+---
+
+## 🌐 Connect With Me  
+📧 Email: **oktavionawulandari@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/ni-luh-sri-oktaviona-wulandari-a7b65328a/  
+
 ---
